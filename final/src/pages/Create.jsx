@@ -8,13 +8,12 @@ export default function Create() {
   const handleSubmit = async (form) => {
     await createProduto(form);
     alert("Criado com sucesso");
-    navigate("/list");
   };
 
   return (
     <div>
       <h2>Novo Produto</h2>
-      <Form onSubmit={handleSubmit} />
+       <Form onSubmit={handleSubmit} />
     </div>
   );
 }

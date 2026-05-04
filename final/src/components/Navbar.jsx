@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
+import teamLogo from "../assets/img/logo time.webp";
 
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <h2>📦 Produtos</h2>
+      <img src={teamLogo} alt="Logo do time" height="50" />
+      <h2>Produtos</h2>
 
       <div>
         <Link to="/">Home</Link>
