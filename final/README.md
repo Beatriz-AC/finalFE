@@ -16,4 +16,3 @@ Clique no botão de execução (Run/Play) do VS Code para iniciar o programa.
 Rodando o Front-end
 . Abra o terminal na pasta raiz do Front-end.
 . verifique se as dependências foram instaladas (no terminal: npm install, npm install cors,  ). 
-COPIEM E COLEM NO README.md 
