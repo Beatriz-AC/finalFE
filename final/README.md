@@ -1,16 +1,19 @@
-# React + Vite
+Este é o projeto final desenvolvido pelo grupo, utilizando uma arquitetura Full Stack com React no Front-end e Node.js no Back-end.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Integrantes
+Lucas Octavio da Silva Castilho
+Otávio Grapeia Gesualdo
+Mateus Carvalho Lopes
+Beatriz Almeida Conceição
+Nicolas Fernando Dos Santos Januario
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Rodando o Back-end
+verifique se a dependência foi instalada (no terminal: npm install).
+Clique no botão de execução (Run/Play) do VS Code para iniciar o programa.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Rodando o Front-end
+. Abra o terminal na pasta raiz do Front-end.
+. verifique se as dependências foram instaladas (no terminal: npm install, npm install cors,  ). 
+COPIEM E COLEM NO README.md 
